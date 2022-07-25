@@ -8,7 +8,7 @@ The purpose of this project was to help the decision making at _PyBer_, a billio
 
 After managing the data and performing multiple calculations, the following summary was created to better understand the key differences from city type:
 
-![Summary Per City Type](PyBer_Analysis/analysis/Summary%20DataFrame.png)
+![image](https://user-images.githubusercontent.com/85131345/180807580-98559fc1-4003-4661-853c-704d695dc860.png)
 
 The key findings were the following:
 
@@ -21,7 +21,7 @@ The key findings were the following:
 
 The following line chart will help to visually understand the differences between the three city types.
 
-![City Type Line Chart](PyBer_Analysis/analysis/PyBer_fare_summary.png)
+![image](https://user-images.githubusercontent.com/85131345/180807885-edae37e5-077b-4e33-a387-30d7a14c5865.png)
 
 The key findings are the following:
 
